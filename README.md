@@ -289,3 +289,5 @@ Summarize what you learned. Experiment with a different dataset (e.g., Iris) and
 2. When should you use one-hot encoding vs. label encoding?
 3. How does feature scaling impact algorithms like KNN or SVM?
 4. Compare L1 regularization and SBS for feature selection.
+
+5. Push your code and the readme document to Github and submit the link 
